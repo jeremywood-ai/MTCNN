@@ -27,8 +27,8 @@ For more reference about the network definition, take a close look at the paper 
 
 FILES
 ######
-.. file:: MTCNN_facial_recognition.py
-.. file:: MTCNN_Version2_Facial_Extraction.py
+.. _MTCNN_Facial_Recognition: MTCNN_facial_recognition.py
+.. _Version2: MTCNN_Version2_Facial_Extraction.py
 
 LICENSE
 #######
