@@ -9,7 +9,7 @@ A mutli-tasked cascaded convolutional neural network project shows the ability a
 
 .. image:: girl_w_glasses_keypoints.png
 
-This project is based on [Iván de Paz Centeno's MTCNN library](https://github.com/ipazc/mtcnn).
+This project is based on Iván de Paz Centeno's MTCNN library (https://github.com/ipazc/mtcnn).
 
 MODEL
 #####
