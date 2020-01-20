@@ -25,6 +25,11 @@ to the module's path. It can be overriden by injecting it into the MTCNN() const
 
 For more reference about the network definition, take a close look at the paper from *Zhang et al. (2016)* [ZHANG2016]_.
 
+FILES
+######
+.. file:: MTCNN_facial_recognition.py
+.. file:: MTCNN_Version2_Facial_Extraction.py
+
 LICENSE
 #######
 
