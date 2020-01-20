@@ -27,8 +27,11 @@ For more reference about the network definition, take a close look at the paper 
 
 FILES
 ######
-.. _MTCNN_Facial_Recognition: MTCNN_facial_recognition.py
-.. _Version2: MTCNN_Version2_Facial_Extraction.py
+`MTCNN_facial_recognition.py 'MTCNN Version 1 - Facial Recognition' <MTCNN_facial_recognition.py>`_
+
+`MTCNN_Version2_Facial_Extraction.py 'MTCNN Version 2 - Face Extraction' <MTCNN_Version2_Facial_Extraction.py>`_
+
+`MTCNN_environment.txt 'Anaconda Full Package List' <MTCNN_environment.txt>`_
 
 LICENSE
 #######
