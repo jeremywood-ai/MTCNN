@@ -42,7 +42,7 @@ LICENSE
 REFERENCE
 =========
 
-.. [BROWNLEE2019] Brownlee, Jason. (2019). How to Perfomr Face Detection with Deep Learning. https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/ Machine Learning Mastery.
+.. [BROWNLEE2019] Brownlee, Jason. (2019). How to Perform Face Detection with Deep Learning. https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/ Machine Learning Mastery.
 
 .. [ZHANG2016] Zhang, K., Zhang, Z., Li, Z., and Qiao, Y. (2016). Joint face detection and alignment using multitask cascaded convolutional networks. IEEE Signal Processing Letters, 23(10):1499–1503.
 
