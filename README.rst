@@ -19,7 +19,7 @@ MODEL
 "The model is adapted from the Facenet's MTCNN implementation, merged in a single file located inside the folder 'data' relative
 to the module's path. It can be overriden by injecting it into the MTCNN() constructor during instantiation.
 
-"The model must be numpy-based containing the 3 main keys "pnet", "rnet" and "onet", having each of them the weights of each of the layers of the network."
+"The model must be numpy-based containing the 3 main keys "pnet", "rnet" and "onet", having each of them the weights of each of the layers of the network." [BROWNLEE2019]_
 
 *mtcnn_weights.npy* is the weight file from the library that is trained for the three layers.
 
@@ -41,6 +41,8 @@ LICENSE
 
 REFERENCE
 =========
+
+.. [BROWNLEE2019] Brownlee, Jason. (2019). How to Perfomr Face Detection with Deep Learning. https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/ Machine Learning Mastery.
 
 .. [ZHANG2016] Zhang, K., Zhang, Z., Li, Z., and Qiao, Y. (2016). Joint face detection and alignment using multitask cascaded convolutional networks. IEEE Signal Processing Letters, 23(10):1499–1503.
 
